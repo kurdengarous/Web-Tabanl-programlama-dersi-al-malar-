@@ -1,0 +1,5 @@
+{
+  "name": "AhEnK - Akıllı Online Notlar",
+  "description": "Firebase Firestore tabanlı, gerçek zamanlı, sürükle-bırak destekli ve AI destekli not uygulaması.",
+  "requestFramePermissions": []
+}
